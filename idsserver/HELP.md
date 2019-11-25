@@ -1,7 +1,14 @@
 # Getting Started
 
+### To Start Application
+1. Open Terminal and go to project location
+2. Type 'gradlew bootRun'
+
 ### Reference Documentation
 For further reference, please consider the following sections:
+
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [@Componentscan](https://www.baeldung.com/spring-component-scanning)
 
 * [Official Gradle documentation](https://docs.gradle.org)
 * [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.1.RELEASE/gradle-plugin/reference/html/)
